@@ -307,10 +307,53 @@
 // }
 
 // Q3
-// SKIP
+// var myNum = prompt("Enter positve value");
+// if (myNum > 0) {
+//     alert("your number is positive");
+// }
+// else if (myNum == 0) {
+
+//     alert(
+//         "your number is zero'"
+//     )
+// }
+// else if (myNum < 0) {
+//     alert("your number is nagitive")
+// }
+// else {
+//     alert(" Is not a value number")
+// }
 
 // Q4
-// SKIP
+// var vowels=prompt("Enter only vowels letter")
+// if(vowels==="a"){
+//     document.write(
+//         "true"
+//     )
+// }
+// else if(vowels==="e"){
+//     document.write(
+//         "true"
+//     )
+// }
+// else if(vowels==="i"){
+//     document.write(
+//         "true"
+//     )
+// }else if(vowels==="o"){
+//     document.write(
+//         "true"
+//     )
+// }
+// else if(vowels==="u"){
+//     document.write(
+//         "true"
+//     )
+// }
+// else{
+//     document.write("false")
+// }
+
 
 // Q5
 // var password=prompt("Enter your password","Enter your password")
