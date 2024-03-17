@@ -96,7 +96,25 @@
 //     alert("car is smaller than cat");
 //     }
 // Q6
-// skip
+
+var totalMark=prompt("Enter total mark");
+var obtaindMark=prompt( "Enter obtaind mark");
+var persontage=(obtaindMark/totalMark)*100;
+if(persontage>=90){
+document.write("<table>"+"<tr>"
++"<th>"+"Persontage"+"</th>"
++"<th>"+"Grade"+"</th>"
++"<th>"+"Remark"+"</th>"
++"</tr>"+"<tr>"+"<td>"+persontage+"</td> "
++"<td>"+"A+1"+"</td> "
++"<td>"+"Excellent"+"</td> "
++"</tr>")
+}
+
+
+
+
+
 // Q7
 // var firstName=10;
 // var my_prompt=prompt("Gusse the Secrat Number")
