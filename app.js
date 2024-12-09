@@ -1,4 +1,4 @@
-// chapter9to11
+// chapter9to11 AND 12 TO 13
 //Q1
 // var city=prompt("Enter your city name")
 // if(city=="karachi"){
@@ -97,19 +97,19 @@
 //     }
 // Q6
 
-var totalMark=prompt("Enter total mark");
-var obtaindMark=prompt( "Enter obtaind mark");
-var persontage=(obtaindMark/totalMark)*100;
-if(persontage>=90){
-document.write("<table>"+"<tr>"
-+"<th>"+"Persontage"+"</th>"
-+"<th>"+"Grade"+"</th>"
-+"<th>"+"Remark"+"</th>"
-+"</tr>"+"<tr>"+"<td>"+persontage+"</td> "
-+"<td>"+"A+1"+"</td> "
-+"<td>"+"Excellent"+"</td> "
-+"</tr>")
-}
+// var totalMark=prompt("Enter total mark");
+// var obtaindMark=prompt( "Enter obtaind mark");
+// var persontage=(obtaindMark/totalMark)*100;
+// if(persontage>=90){
+// document.write("<table>"+"<tr>"
+// +"<th>"+"Persontage"+"</th>"
+// +"<th>"+"Grade"+"</th>"
+// +"<th>"+"Remark"+"</th>"
+// +"</tr>"+"<tr>"+"<td>"+persontage+"</td> "
+// +"<td>"+"A+1"+"</td> "
+// +"<td>"+"Excellent"+"</td> "
+// +"</tr>")
+// }
 
 
 
